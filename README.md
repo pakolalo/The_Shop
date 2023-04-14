@@ -5,11 +5,11 @@ This is a ecommerce website created on HTML, CSS & JavaScritp. This web site is 
 ## Autor
 **dotWebdesign**
 
-* [LinkedIn]https://www.linkedin.com/in/franciscodelcollados/)
+* [LinkedIn](https://www.linkedin.com/in/franciscodelcollados/)
 * [Portfolio](https://iscodelcollado.com)
 
 ## See live example
-- [link]
+*[LinkToPage](https://pakolalo.github.io/The_Shop/)
 
 ## Installation
 
