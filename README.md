@@ -1,6 +1,6 @@
 ## Description
 
-This is a ecommerce website created on HTML, CSS & JavaScritp. This web site is on youtube i replied the code for myself and did a little changes. If you want to see the original code, this is the link. https://www.youtube.com/watch?v=TvhnAGzvs7Y&t=0s
+This is a ecommerce website created on HTML, CSS & JavaScritp. This web site is on youtube i replied the code for myself and did a few changes. If you want to see the original code, this is the link. https://www.youtube.com/watch?v=TvhnAGzvs7Y&t=0s
 
 ## Autor
 **dotWebdesign**
