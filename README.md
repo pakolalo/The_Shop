@@ -1,9 +1,9 @@
 ## Description
 
-This is a ecommerce website created on HTML, CSS & JavaScritp. This web site is on youtube i replied the code for myself and did a few changes. If you want to see the original code, this is the link. https://www.youtube.com/watch?v=TvhnAGzvs7Y&t=0s
+This is a ecommerce website created on HTML, CSS & JavaScritp.
 
 ## Autor
-**dotWebdesign**
+**Isco del Collado**
 
 * [LinkedIn](https://www.linkedin.com/in/franciscodelcollados/)
 * [Portfolio](https://iscodelcollado.com)
@@ -23,4 +23,3 @@ If you want to hire me, you can send me an email to info@iscodelcollado.com
 
 MIT Public license v3.0
 
-It can´t be used for commercial porpuses.
